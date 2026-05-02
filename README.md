@@ -1,0 +1,1 @@
+A high-concurrency backend system designed to handle the core functionality of an e-retail platform. This project centers on the "Shopping Cart" lifecycle, solving technical challenges related to session persistence and real-time inventory synchronization. It is architected to provide a smooth, reliable shopping experience by managing high-frequency data updates.
